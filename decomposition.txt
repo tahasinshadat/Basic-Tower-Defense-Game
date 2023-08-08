@@ -1,0 +1,27 @@
+1) Create SetUp and Background
+2) create Enemy Class
+3) Draw enemy on screen and make it move
+4) make enemy follow path
+    - create Path
+5) make the enemy display health bar (extra)*
+6) make the enemy lose health and display it on mouse click
+7) make the enemy lose health when we click on it
+8) create drag and drop for a rect *
+9) create class for tower
+10) display towers on screen
+11) make the tower class do the drag and drop
+13) make the tower class create and shoot a projectile
+14) make the tower class shoot that projectile towards the enemy given it's position *
+    - 
+15) make the projectile do damage *
+16) create a set range for the tower (probably going to be a rectangle)
+17) change rectangle into circle somehow *
+18) spawn in multiple enemies to test
+19) create GUI section
+    - the tower for drag and drop
+    - (will display currency here)
+    - (will display users health here)
+20) create lose conditions 
+    - User loses health when enemy gets to end of path
+21) create win conditions
+    - user kills all the zombies? (25 zombies)
